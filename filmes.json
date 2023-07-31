@@ -1,0 +1,34 @@
+[
+  {
+    "Title": "The Batman",
+    "Year": 2022,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 176
+  },
+  {
+    "Title": "Pacific Rim",
+    "Year": 2013,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 131
+  },
+  {
+    "Title": "Watchmen",
+    "Year": 2009,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 162
+  },
+  {
+    "Title": "Jurassic Park",
+    "Year": 1993,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 127
+  }
+]
